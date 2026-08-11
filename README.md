@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jamesVLK/jamesVLK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/whoami.svg" width="100%" alt="James Valentín - GitHub Profile"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+
+<img src="./assets/stack.svg" width="100%" alt="James Valentín - Stack"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/activity.svg" width="100%" alt="James Valentín - GitHub Activity"/>
+
+</div>
+
+<br>
