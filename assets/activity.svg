@@ -4517,9 +4517,9 @@
             width="11"
             height="11"
             rx="2"
-            class="day level0"
+            class="day level3"
         >
-            <title>2026-08-28 — 0 contributions</title>
+            <title>2026-08-28 — 8 contributions</title>
         </rect>
         
         <rect
@@ -4528,9 +4528,9 @@
             width="11"
             height="11"
             rx="2"
-            class="day level0"
+            class="day level1"
         >
-            <title>2026-08-29 — 0 contributions</title>
+            <title>2026-08-29 — 1 contribution</title>
         </rect>
         
 
@@ -4631,7 +4631,7 @@
         y="318"
         class="stat-accent"
     >
-        266
+        275
     </text>
 
 
@@ -4648,7 +4648,7 @@
         y="318"
         class="stat-value"
     >
-        65
+        67
     </text>
 
 
@@ -4665,7 +4665,7 @@
         y="318"
         class="stat-value"
     >
-        0 days
+        2 days
     </text>
 
 
